@@ -8,8 +8,15 @@ body{
     align-items: center;
 }
 
+.heading{
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    word-spacing: 0.1rem;
+}
+
 .content-box{
-    background-color: #02B290;
+    background-color: #02b2af;
     height: 40%;
     width: 45%;
     display: flex;
@@ -25,9 +32,14 @@ body{
     flex-direction: row;
     justify-content: flex-start;
     align-self: flex-start;
-    width: 40%;
+    width: 80%;
     margin-left: 10%;
     gap: 4%;
     font-weight: 500;
     font-size: 17px;
+}
+
+#userInput{
+    width: 80%;
+    height: 50%;
 }
