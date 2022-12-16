@@ -13,6 +13,7 @@ body{
     font-weight: 700;
     color: #fff;
     word-spacing: 0.1rem;
+    margin-bottom: 1.5%;
 }
 
 .content-box{
@@ -33,13 +34,13 @@ body{
     justify-content: flex-start;
     align-self: flex-start;
     width: 80%;
-    margin-left: 10%;
+    margin-left: 6%;
     gap: 4%;
     font-weight: 500;
     font-size: 17px;
 }
 
 #userInput{
-    width: 80%;
+    width: 90%;
     height: 50%;
 }
