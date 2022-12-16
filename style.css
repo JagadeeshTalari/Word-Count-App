@@ -1,0 +1,33 @@
+body{
+    background-color: #212121;
+    height: 100vh;
+    width: screen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-box{
+    background-color: #02B290;
+    height: 40%;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 4%;
+    padding-top: 2%;
+}
+
+.resultSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-self: flex-start;
+    width: 40%;
+    margin-left: 10%;
+    gap: 4%;
+    font-weight: 500;
+    font-size: 17px;
+}
